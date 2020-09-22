@@ -1,0 +1,1 @@
+Powershell -ExecutionPolicy Bypass -Command "& 'D:\PowerShellScripts\SecurityAutomation\automation.ps1'  -domains 'rexnord.com' -outputDir 'D:\PowerShellScripts\SecurityAutomation\output\'
